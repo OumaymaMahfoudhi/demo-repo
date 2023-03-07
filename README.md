@@ -1,1 +1,1 @@
-this our project to learn more how tu use Git and github
+this our project to learn more how tu use Git and github !
